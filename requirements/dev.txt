@@ -1,0 +1,5 @@
+Django==1.10.8
+django-generic-scaffold==0.4.1
+django-localflavor==1.5.2
+psycopg2==2.7.3.1
+six==1.11.0
